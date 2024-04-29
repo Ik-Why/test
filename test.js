@@ -1,3 +1,3 @@
 function show() {
-    document.getElementById("test").style.visibility = "false"
+    document.getElementById("test").style.visibility = false
 }
