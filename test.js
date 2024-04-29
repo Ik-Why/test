@@ -1,3 +1,1 @@
-function show() {
-    document.getElementById("test").style.visibility = false
-}
+console.log("Working!")
